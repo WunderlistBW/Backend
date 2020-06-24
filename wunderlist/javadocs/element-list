@@ -1,0 +1,9 @@
+com.lambdaschool.wunderlist
+com.lambdaschool.wunderlist.config
+com.lambdaschool.wunderlist.controllers
+com.lambdaschool.wunderlist.exceptions
+com.lambdaschool.wunderlist.handlers
+com.lambdaschool.wunderlist.models
+com.lambdaschool.wunderlist.repository
+com.lambdaschool.wunderlist.services
+com.lambdaschool.wunderlist.views
