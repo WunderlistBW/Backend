@@ -1,7 +1,7 @@
 # WunderList Backend
 
 <details>
-<summary>http://wunderlist-application.herokuapp.com/users/users</summary>
+<summary>GET http://wunderlist-application.herokuapp.com/users/users</summary>
 
 ```JSON
 [
@@ -60,7 +60,7 @@
 
 
 <details>
-<summary>http://wunderlist-application.herokuapp.com/signup</summary>
+<summary>POST http://wunderlist-application.herokuapp.com/signup</summary>
 
 Input:
 
@@ -84,7 +84,7 @@ Return:
 
 
 <details>
-<summary>http://wunderlist-application.herokuapp.com/login</summary>
+<summary>POST http://wunderlist-application.herokuapp.com/login</summary>
 
 ```TEXT
 Login using credentials from signup:
