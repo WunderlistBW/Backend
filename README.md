@@ -148,6 +148,34 @@ token: 35883fd1-cb99-4fd8-a1f1-dcba2bb0fae6
 ```
 </details>
 
+<details>
+<summary>GET http://wunderlist-application.herokuapp.com/users/user/71</summary>
+
+```JSON
+{
+    "userid": 71,
+    "username": "mojo",
+    "primaryemail": "home@local.house",
+    "useremails": [],
+    "roles": [
+        {
+            "role": {
+                "roleid": 2,
+                "name": "USER"
+            }
+        }
+    ],
+    "todos": [
+        {
+            "createdDate": "2020-06-25 11:43:26",
+            "todoid": 72,
+            "description": "Make coffee",
+            "completed": false
+        }
+    ]
+}
+```
+</details>
 
 <details>
 <summary>PATCH http://wunderlist-application.herokuapp.com/todos/todo/72 </summary>
